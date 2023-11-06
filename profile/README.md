@@ -1,5 +1,3 @@
-## The Caf App 🍴
-
 #### About the app
 The Caf App started at Mississippi College in 2022 as a side project from Micah Lindley, a computer science student who wanted to improve the way students accessed the cafeteria menu.  Over the next year, flagship features like ratings, profiles, data history, and much more were added to the app.  The Caf App became available to other schools in 2024.
 
