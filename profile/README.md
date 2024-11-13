@@ -6,3 +6,6 @@ The Caf App provides an easy-to-use, comprehensive interface for students to vie
 
 #### For administrators
 Advanced statistical dashboards and access to raw meal and rating data allows administrators to make informed decisions regarding their campus’ food service experience.
+
+#### Interested in having the app at your school?
+Send an email to thecafapp@micahlindley.com to inquire about purchasing The Caf App for your school.
